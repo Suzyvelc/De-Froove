@@ -12,4 +12,4 @@ ls
 
 cd 'Ip-Tracker (De Floover)'
 
-python3 De-Froover.py / De-Froove.py
+python3 De-Froover.py / python3 De-Froove.py
