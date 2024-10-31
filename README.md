@@ -3,5 +3,9 @@ A dynamic IP tracking tool that provides real-time IP information including geol
 
 # Installation
 git clone https://github.com/Suzyvelc/De-Froover.git
+
+
 cd 'Ip-Tracker (De Floover)'
+
+
 python3 De-Froove.py
